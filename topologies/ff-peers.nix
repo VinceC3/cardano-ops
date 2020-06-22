@@ -1103,4 +1103,19 @@
     port = 3001;
     valency = 1;
   }
+  {
+    operator = "TXSH";
+    node = "relay1";
+    addr = "relay1.TexasStakeHouse.com";
+    port = 3001;
+    valency = 1;
+  }
+  {
+  operator = "TXSH";
+    node = "relay2";
+    addr = "relay2.TexasStakeHouse.com";
+    port = 3001;
+    valency = 1;
+    }
+  
 ]
